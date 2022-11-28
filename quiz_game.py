@@ -1,5 +1,5 @@
 print("Welcome to Quiz Game!")
-print("*********************")
+print("********************")
 
 playing = input("Do you want to play a game? ")
 
