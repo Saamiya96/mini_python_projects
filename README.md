@@ -7,8 +7,6 @@ Easiest -> Hardest
 2. Number Guesser
 3. Rock Paper Scissors
 4. Chose Your Own Adventure
-5. Password Manager
-
 
 How to run these python files
     - git clone repository
